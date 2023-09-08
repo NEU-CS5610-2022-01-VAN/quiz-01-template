@@ -1,0 +1,17 @@
+{
+  "name": "quiz-01-template",
+  "version": "1.0.0",
+  "description": "quiz 1 for CS5610",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "jest": "^29.6.4",
+    "jsdom": "^22.1.0",
+    "postcss": "^8.4.29"
+  }
+}
